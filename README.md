@@ -6,10 +6,8 @@ Welcome to my GitHub profile! I'm a passionate developer, hobbyist musician, and
 
 ## 🔭 About Me
 - 🎓 10th-grade vocational high school student at **SMK Telkom Sidoarjo**
-- 💻 Web & App Developer (React, Python, Laravel)
-- 🎸 Guitarist (Fender Stratocaster enthusiast)
-- 🎵 Music Lover (Reggae, Grunge, Bob Marley fan)
-- 🛠 Working on **Vity Sport** – an app to help people find workout buddies
+- 💻 Web & App Developer (Python, Laravel)
+- 🛠 Working on **Productivity Flow** – an app to help people to be productive
 
 ---
 
