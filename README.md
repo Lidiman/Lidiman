@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Hugo Bama 👋
 
-<!--
-**Lidiman/Lidiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer, hobbyist musician, and tech enthusiast from Indonesia. I love building projects, exploring new technologies, and sharing knowledge with the community.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 About Me
+- 🎓 10th-grade vocational high school student at **SMK Telkom Sidoarjo**
+- 💻 Web & App Developer (React, Python, Laravel)
+- 🎸 Guitarist (Fender Stratocaster enthusiast)
+- 🎵 Music Lover (Reggae, Grunge, Bob Marley fan)
+- 🛠 Working on **Vity Sport** – an app to help people find workout buddies
+
+---
+
+## 🛠 Skills
+- **Languages:** Python, JavaScript, PHP, HTML, CSS  
+- **Frameworks & Tools:** Laravel, React, Tailwind, Docker, Git  
+- **Other Skills:** Video editing, Cybersecurity awareness
+
+---
+
+## 📫 How to reach me
+- Email: hugobama@example.com  
+- LinkedIn: [linkedin.com/in/hugobama](https://linkedin.com/in/hugobama)  
+- Instagram: [@hugobama](https://instagram.com/hugobama)
+
+---
+
+## 📊 GitHub Stats
+![Hugo Bama's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+
