@@ -1,32 +1,52 @@
-# Hi there, I'm Hugo Bama 👋
+# 👋 Hi, I'm Hugo Bama
 
-Welcome to my GitHub profile! I'm a passionate developer, hobbyist musician, and tech enthusiast from Indonesia. I love building projects, exploring new technologies, and sharing knowledge with the community.
-
----
-
-## 🔭 About Me
-- 🎓 10th-grade vocational high school student at **SMK Telkom Sidoarjo**
-- 💻 Web & App Developer (Python, Laravel)
-- 🛠 Working on **Productivity Flow** – an app to help people to be productive
+🎓 Student at SMK Telkom Sidoarjo  
+💻 Web Developer | Laravel Enthusiast  
+🐧 Arch Linux User  
+🎸 Guitarist (Fender Stratocaster)  
+🎶 Reggae & Grunge Lover  
 
 ---
 
-## 🛠 Skills
-- **Languages:** Python, JavaScript, PHP, HTML, CSS  
-- **Frameworks & Tools:** Laravel, React, Tailwind, Docker, Git  
-- **Other Skills:** Video editing, Cybersecurity awareness
+## 🚀 About Me
+
+I love building web applications and experimenting with backend systems.  
+Currently exploring:
+
+- 🔐 Cybersecurity concepts
+- ☁️ Cloud & tunnel networking
+- ⚙️ Backend API development
+- 🧠 System architecture
 
 ---
 
-## 📫 How to reach me
-- Email: hugobama@example.com  
-- LinkedIn: [linkedin.com/in/hugobama](https://linkedin.com/in/hugobama)  
-- Instagram: [@hugobama](https://instagram.com/hugobama)
+## 🛠 Tech Stack
+
+- 💻 PHP (Laravel)
+- 🐍 Python
+- 🌐 HTML, CSS, JavaScript
+- 🐳 Docker
+- 🐧 Linux (Arch btw 😎)
+
+---
+
+## 🌌 Current Project
+
+**ProductivityFlow**  
+An app that helps people keep productive.
 
 ---
 
 ## 📊 GitHub Stats
-![Hugo Bama's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lidiman&show_icons=true&theme=radical)
 
 ---
 
+## 🪐 Cosmic Terminal
+
+```bash
+> initializing cosmic-search...
+> system status: stable
+> arch linux detected
+> vibe: productive
