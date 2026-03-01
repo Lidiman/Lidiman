@@ -39,7 +39,7 @@
 ## 📊 GitHub Power Level
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lidiman&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lidiman&show_icons=true&theme=radical" />
   <br>
   <img src="https://streak-stats.demolab.com?user=Lidiman&theme=radical&hide_border=true" />
   <br>
