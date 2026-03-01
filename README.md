@@ -21,7 +21,7 @@
 ```
 
 - 🎓 SMK Telkom Sidoarjo  
-- 🚀 Currently building **Vity Sport**
+- 🚀 Currently building **Productivity Flow**
 - 🔐 Learning Cybersecurity & Cloud Systems
 - 🎸 Reggae & Grunge Enthusiast
 - 🐧 Arch Linux User
@@ -39,7 +39,6 @@
 ## 📊 GitHub Power Level
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Lidiman&show_icons=true&theme=radical" />
   <br>
   <img src="https://streak-stats.demolab.com?user=Lidiman&theme=radical&hide_border=true" />
   <br>
@@ -54,8 +53,6 @@
 > sudo launch cosmic-search
 > initializing backend modules...
 > establishing secure tunnel...
-> firewall: active
-> vibe status: ULTRA STABLE 🔥
 ```
 
 ---
@@ -66,7 +63,7 @@
 <summary>🪐 Secret Transmission Detected</summary>
 
 ```
-YWt1IHNheWFuZyBiaXRh
+Aku sayang bita
 ```
 
 </details>
