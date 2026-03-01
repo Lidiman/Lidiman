@@ -45,8 +45,8 @@ An app that helps people keep productive.
 
 ## 🪐 Cosmic Terminal
 
-```bash
-> initializing cosmic-search...
-> system status: stable
-> arch linux detected
-> vibe: productive
+<details> <summary>🌌 Secret Transmission</summary>
+
+YWt1IHNheWFuZyBiaXRh
+
+</details> <!-- aku sayang bita -->
