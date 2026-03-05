@@ -1,7 +1,7 @@
 <!-- aku sayang bita -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=9400D3&center=true&vCenter=true&width=750&lines=Hugo+Bama;Laravel+Backend+Engineer;Arch+Linux+User;Cosmic+Search+Creator;System+Architect+In+Progress" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=9400D3&center=true&vCenter=true&width=750&lines=Hugo+Bama;Laravel+Backend+Engineer;System+Architect+In+Progress" />
 </h1>
 
 <p align="center">
