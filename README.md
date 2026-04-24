@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=9400D3&center=true&vCenter=true&width=750&lines=Hugo+Bama;Laravel+Backend+Engineer;System+Architect+In+Progress" />
 </h1>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=200&section=header&text=Cosmic%20Mode%20Activated&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
 
 ---
 
