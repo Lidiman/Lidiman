@@ -9,7 +9,7 @@
 
 * 🎓 Vocational high school student (Software Engineering)
 * 💡 Currently building projects like **Vity Sport** & other web apps
-* 🔐 Interested in **Cybersecurity**
+* ☁️ Interested in **Cloud Computing**
 * 🛠️ Love working with Laravel, Python, and modern web tools
 
 ---
