@@ -1,72 +1,77 @@
-<!-- aku sayang bita -->
+# 👋 Hi, I'm Hugo Bama
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=9400D3&center=true&vCenter=true&width=750&lines=Hugo+Bama;Laravel+Backend+Engineer;System+Architect+In+Progress" />
-</h1>
-
+🚀 A passionate developer who loves building things on the web
+🎸 Guitar player | 🎬 Video editor | 💻 Tech enthusiast
 
 ---
 
 ## 🧠 About Me
 
-```bash
-> role: backend developer
-> os: arch linux btw
-> guitar: fender stratocaster
-> focus: laravel + api + system architecture
-> vibe: cosmic
-```
-
-- 🎓 SMK Telkom Sidoarjo  
-- 🚀 Currently building **Productivity Flow**
-- 🔐 Learning Cybersecurity & Cloud Systems
-- 🎸 Reggae & Grunge Enthusiast
-- 🐧 Arch Linux User
+* 🎓 Vocational high school student (Software Engineering)
+* 💡 Currently building projects like **Vity Sport** & other web apps
+* 🔐 Interested in **Cybersecurity**
+* 🛠️ Love working with Laravel, Python, and modern web tools
 
 ---
 
-## ⚙️ Tech Arsenal
+## 🚀 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,js,react,docker,linux,git" />
-</p>
+### 💻 Languages
 
----
+* Python
+* PHP
+* JavaScript
 
-## 📊 GitHub Power Level
+### ⚙️ Frameworks & Tools
 
-<p align="center">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=Lidiman&theme=radical&hide_border=true" />
-  <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lidiman&theme=react-dark&hide_border=true&area=true" />
-</p>
+* Laravel
+* Vite
+* Node.js
+* Git & GitHub
 
----
+### 🗄️ Database
 
-## 🌌 Cosmic Terminal
-
-```bash
-> sudo launch cosmic-search
-> initializing backend modules...
-> establishing secure tunnel...
-```
+* MySQL
+* SQLite
 
 ---
 
-## 🛰 Encrypted Signal
+## 📊 GitHub Stats
 
-<details>
-<summary>🪐 Secret Transmission Detected</summary>
-
-```
-Aku sayang bita
-```
-
-</details>
+![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=120&section=footer"/>
-</p>
+## 🔥 Current Projects
+
+* 🏋️ Vity Sport — Find your workout partner easily
+* 📡 Asentinel — Service monitoring & reporting system
+
+---
+
+## 🎯 Goals
+
+* Become a professional full-stack developer
+* Build useful apps that solve real problems
+* Master cybersecurity fundamentals
+
+---
+
+## 🎵 Fun Side
+
+* 🎸 Playing guitar
+* 🎧 Listening to rock & reggae
+  (Bob Marley, Guns N Roses)
+
+---
+
+## 📫 Connect with Me
+
+* GitHub: https://github.com/Lidiman
+* Email: [Bamaground@gmail.com](mailto:bamaground@gmail.com)
+
+---
+
+> "Not everything that feels incompatible is meant to end—sometimes it’s just not understood yet."
+
+---
